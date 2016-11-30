@@ -1,2 +1,2 @@
 # python-design-patterns
-This a example design patters of python
+This a example of design patters in python
